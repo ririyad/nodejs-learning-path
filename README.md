@@ -20,33 +20,33 @@ https://github.com/mkatsoho/nodejs-learning-path
 
 - Javascript - 4 days - https://www.tutorialspoint.com/javascript/  
 
-    using Firefox firebug
+  - using Firefox firebug
     
-    focus on sending all kinds of requests to web servers
+  - focus on sending all kinds of requests to web servers
 
 - JQuery (optional) - 3 days - https://www.tutorialspoint.com/jquery/
 
 - nodejs - 4 days - https://www.tutorialspoint.com/nodejs/ 
 
-    use nodejs version 6+
+  - use nodejs version 6+
     
-    instead of express, learn koa later in the path
+  - instead of express, learn koa later in the path
     
-    use notepad/vi/sublime
+  - use notepad/vi/sublime
 
 - understand nodejs callback - 1 day 
 
-    try setTimeout function
+  - try setTimeout function
     
-    try async file IO functions, e.g. fs.writeFile(), fs.readFile()
+  - try async file IO functions, e.g. fs.writeFile(), fs.readFile()
 
 - ES6/ES7 (optional) - 4 days
 
     the latest programming sugar for Javascript
 
-    in short - http://wiki.jikexueyuan.com/project/es6/  (Chinese)
+  - in short - http://wiki.jikexueyuan.com/project/es6/  (Chinese)
     
-    longer - http://es6.ruanyifeng.com (Chinese)
+  - longer - http://es6.ruanyifeng.com (Chinese)
 
 - AVA - 3 days - https://github.com/avajs
 
@@ -58,15 +58,15 @@ https://github.com/mkatsoho/nodejs-learning-path
     
 - KOA2 - 4 days
 
-    sample project using KOA2 and ES6 - https://github.com/jschill/koa-2-babel-6-async-example
+  - sample project using KOA2 and ES6 - https://github.com/jschill/koa-2-babel-6-async-example
   
-    tutorial - http://www.tutorialspoint.com/koajs/
+  - tutorial - http://www.tutorialspoint.com/koajs/
   
-    use Webstorm IDE, to handle complex projects
+  - use Webstorm IDE, to handle complex projects
   
-    (optional) koa2 tutorial - https://dinosaurscode.xyz/nodejs/2016/06/28/nodejs-koa2-tutorial/
+  - (optional) koa2 tutorial - https://dinosaurscode.xyz/nodejs/2016/06/28/nodejs-koa2-tutorial/
   
-    (optional) Jade (now renamed as PUG), a html template - https://pugjs.org/api/getting-started.html
+  - (optional) Jade (now renamed as PUG), a html template - https://pugjs.org/api/getting-started.html
   
 - Deep leaning on Javascript (optional) - 20 days
   
