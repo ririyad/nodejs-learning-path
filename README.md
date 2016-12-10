@@ -70,7 +70,22 @@ https://github.com/mkatsoho/nodejs-learning-path
   
 - Deep leaning on Javascript (optional) - 20 days
   
-    You Don’t Know Javascript - https://github.com/getify/You-Dont-Know-JS  20 days
+  - You Don’t Know Javascript - https://github.com/getify/You-Dont-Know-JS  20 days
     
+- Git (optional) - 2 to 7 days
+
+    Manage codes in professional way
+    
+    https://www.gitbook.com/book/bingohuang/progit2/details (Chinese)
+
 - To be continued 
 
+    MongoDB, Mongoose
+    
+    Nginx & nodejs
+    
+    thrift & protobuf
+    
+    Redis, Kafka
+
+    
