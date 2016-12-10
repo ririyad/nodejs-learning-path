@@ -4,9 +4,11 @@ How to learn nodes in a quick and efficient way? Follow the path
 ## Follow the path
 
 - http - 1 day - https://www.tutorialspoint.com/http/   
+
 using firefox rest console extension and Firefox firebug
 
 - (optional）Restful web services - 1 day - https://www.tutorialspoint.com//restful/index.htm 
+
 using firefox rest console extension
 
 - Javascript - 5 days - https://www.tutorialspoint.com/javascript/  
