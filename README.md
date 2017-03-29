@@ -76,7 +76,9 @@ https://github.com/mkatsoho/nodejs-learning-path
 
     Manage codes in professional way
     
-    https://www.gitbook.com/book/bingohuang/progit2/details (Chinese)
+    short tutorial - http://gitlet.maryrosecook.com/docs/gitlet.html
+    long tutorial - https://maryrosecook.com/blog/post/git-from-the-inside-out
+    Long tutorial in Chinese - https://www.gitbook.com/book/bingohuang/progit2/details (Chinese)
 
 - To be continued 
 
