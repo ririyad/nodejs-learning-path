@@ -55,6 +55,11 @@ https://github.com/mkatsoho/nodejs-learning-path
 - mocha (optional) - 1 day - https://mochajs.org
 
     a test framework, perfect before AVA was born 
+
+- Express.js - 4 days
+
+    - suggest to use KOA@2 instead of Expressjs
+    - generate the first expressjs sample app https://expressjs.com/en/starter/generator.html 
     
 - KOA2 - 4 days
 
