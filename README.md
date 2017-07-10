@@ -34,7 +34,7 @@ https://github.com/mkatsoho/nodejs-learning-path
   > Duration: 1 day
 
 
-- ES6/ES7 (optional)
+- [ ] ES6/ES7 (optional)
     > Duration: 4 days
 
 - [ ] [AVA]( https://github.com/avajs)
