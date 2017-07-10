@@ -10,9 +10,8 @@ https://github.com/mkatsoho/nodejs-learning-path
 
 ## Follow the path
 
-- http - 2 day - https://www.tutorialspoint.com/http/   
-
-    using firefox rest console extension and Firefox firebug
+- [ ] [HTTP Tutorial](https://www.tutorialspoint.com/http/)
+    - Duration: 2 days
 
 - Restful web services - 1 day - https://www.tutorialspoint.com//restful/index.htm 
 
