@@ -11,80 +11,65 @@ https://github.com/mkatsoho/nodejs-learning-path
 ## Follow the path
 
 - [ ] [HTTP Tutorial](https://www.tutorialspoint.com/http/)
-    - Duration: 2 days
+    > Duration: 2 days
 
-- Restful web services - 1 day - https://www.tutorialspoint.com//restful/index.htm 
+- [ ] [Restful web services](https://www.tutorialspoint.com//restful/index.htm)
+    > Duration: 1 day
 
-    using firefox rest console extension
+- [ ] [Javascript](https://www.tutorialspoint.com/javascript/  )
+    > Duration: 4 days
 
-- Javascript - 4 days - https://www.tutorialspoint.com/javascript/  
+- [ ] [JQuery (optional)](https://www.tutorialspoint.com/jquery/)
+    - Duration: 3 days
 
-  - using Firefox firebug
-    
-  - focus on sending all kinds of requests to web servers
+- [ ] [nodejs](https://www.tutorialspoint.com/nodejs/)
+    - use nodejs version 6+  
+    - instead of express, learn koa later in the path 
+    - use notepad/vi/sublime
+    > Duration: 4 days
 
-- JQuery (optional) - 3 days - https://www.tutorialspoint.com/jquery/
-
-- nodejs - 4 days - https://www.tutorialspoint.com/nodejs/ 
-
-  - use nodejs version 6+
-    
-  - instead of express, learn koa later in the path
-    
-  - use notepad/vi/sublime
-
-- understand nodejs callback - 1 day 
-
+- [ ] Understand nodejs callback 
   - try setTimeout function
-    
   - try async file IO functions, e.g. fs.writeFile(), fs.readFile()
+  > Duration: 1 day
 
-- ES6/ES7 (optional) - 4 days
 
-    the latest programming sugar for Javascript
+- ES6/ES7 (optional)
+    > Duration: 4 days
 
-  - in short - http://wiki.jikexueyuan.com/project/es6/  (Chinese)
-    
-  - longer - http://es6.ruanyifeng.com (Chinese)
+- [ ] [AVA]( https://github.com/avajs)
+    - a perfect test framework
+    > Duration: 3 days
 
-- AVA - 3 days - https://github.com/avajs
+- [ ] [mocha (optional)](https://mochajs.org)
+    - a test framework, perfect before AVA was born 
+    > Duration: 1 day
 
-    a perfect test framework
-
-- mocha (optional) - 1 day - https://mochajs.org
-
-    a test framework, perfect before AVA was born 
-
-- Express.js - 4 days
-
+- [ ] [Express.js](https://expressjs.com/en/starter/generator.html)
     - suggest to use KOA@2 instead of Expressjs
-    - generate the first expressjs sample app https://expressjs.com/en/starter/generator.html 
-    
-- KOA2 - 4 days
+    - generate the first expressjs sample app 
+    > Duration: 4days
 
-  - sample project using KOA2 and ES6 - https://github.com/jschill/koa-2-babel-6-async-example
+- [ ] KOA2
+    - [Sample project using KOA2 and ES6](https://github.com/jschill/koa-2-babel-6-async-example)
+    - tutorial - http://www.tutorialspoint.com/koajs/
+    - use Webstorm IDE, to handle complex projects
+    - (optional) koa2 tutorial - https://dinosaurscode.xyz/nodejs/2016/06/28/nodejs-koa2-tutorial/
   
-  - tutorial - http://www.tutorialspoint.com/koajs/
+    - [Jade (now renamed as PUG))(Optional)](https://pugjs.org/api/getting-started.html)
+        - A html template
+        > Duration: 4 days
   
-  - use Webstorm IDE, to handle complex projects
-  
-  - (optional) koa2 tutorial - https://dinosaurscode.xyz/nodejs/2016/06/28/nodejs-koa2-tutorial/
-  
-  - (optional) Jade (now renamed as PUG), a html template - https://pugjs.org/api/getting-started.html
-  
-- Deep leaning on Javascript (optional) - 20 days
-  
-  - You Don’t Know Javascript - https://github.com/getify/You-Dont-Know-JS  20 days
+- [ ] Deep leaning on Javascript (optional)
+    - [You Don’t Know Javascript](https://github.com/getify/You-Dont-Know-JS)
+    > Duration: 20 days
     
-- Git (optional) - 2 to 7 days
+- [ ] Git (optional)
+    - Manage codes in professional way
+    - [short tutorial](http://gitlet.maryrosecook.com/docs/gitlet.html)
+    - [long tutorial](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+    > Duration:2 to 7 days
 
-    Manage codes in professional way
-    
-    short tutorial - http://gitlet.maryrosecook.com/docs/gitlet.html
-    
-    long tutorial - https://maryrosecook.com/blog/post/git-from-the-inside-out
-    
-    Long tutorial in Chinese - https://www.gitbook.com/book/bingohuang/progit2/details (Chinese)
 
 - To be continued 
 
@@ -96,4 +81,6 @@ https://github.com/mkatsoho/nodejs-learning-path
     
     Redis, Kafka
 
+
+> Notes: The duration time is fixed by the original authors. It may alter. I removed the chinese version of any tutorials. If anyone is interested in chinese version, please have a look at the original repo
     
